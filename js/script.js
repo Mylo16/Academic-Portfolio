@@ -81,7 +81,7 @@ const allProjects = [
     technologies: ['Machine Learning', 'Power Electronics', 'Python'],
     seeProject: 'See Project',
     linkLive: '<a href="/" target="blank"></a>',
-    linkSource: '<a href="https://docs.google.com/document/d/1kf-brcFPa_WizfaDMnlOgBfezEKho1I5sdH4KPXqrnE/edit?usp=sharing" target="blank">See Project</a>',
+    linkSource: '<a href="https://drive.google.com/file/d/10KkGFOlmy942fWYg9RsJb7Gu5duALxF1/view?usp=sharing" target="blank">See Project</a>',
   },
   {
     id: 'bg-pro3',
