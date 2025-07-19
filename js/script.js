@@ -87,7 +87,7 @@ const allProjects = [
     id: 'bg-pro3',
     name: 'E-Short Courses',
     description: 'This website should enable students to enroll in online courses, take quizzes and get access to course materials.',
-    featuredImage: './img/air_pollutant.png',
+    featuredImage: './img/web.png',
     technologies: ['React', 'Redux', 'JavaScript',],
     seeProject: 'See Project',
     linkLive: '<a href="https://short-courses-eight.vercel.app/" target="blank">See Live</a>',
