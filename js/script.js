@@ -16,13 +16,13 @@ document.querySelectorAll('.nav-link').forEach((n) => n.addEventListener('click'
 const projects = [
   {
     id: 'bg-pro3',
-    name: 'Air Pollution',
-    description: 'This app contains the hourly data collection of air pollutants in Ghana.',
-    featuredImage: './img/air_pollutant.png',
+    name: 'E-Short Courses',
+    description: 'This website should enable students to enroll in online courses, take quizzes and get access to course materials.',
+    featuredImage: './img/web.png',
     technologies: ['React', 'Redux', 'JavaScript',],
     seeProject: 'See Project',
-    linkLive: '<a href="https://air-pollutants.onrender.com" target="blank">See Live</a>',
-    linkSource: '<a href="https://github.com/Mylo16/air-pollution" target="blank">See Source</a>',
+    linkLive: '<a href="https://short-courses-eight.vercel.app/" target="blank">See Live</a>',
+    linkSource: '<a href="https://github.com/Mylo16/short-courses" target="blank">See Source</a>',
   },
   {
     id: 'bg-pro4',
@@ -85,13 +85,13 @@ const allProjects = [
   },
   {
     id: 'bg-pro3',
-    name: 'Air Pollution',
-    description: 'This app contains the hourly data collection of air pollutants in Ghana.',
+    name: 'E-Short Courses',
+    description: 'This website should enable students to enroll in online courses, take quizzes and get access to course materials.',
     featuredImage: './img/air_pollutant.png',
     technologies: ['React', 'Redux', 'JavaScript',],
     seeProject: 'See Project',
-    linkLive: '<a href="https://air-pollutants.onrender.com" target="blank">See Live</a>',
-    linkSource: '<a href="https://github.com/Mylo16/air-pollution" target="blank">See Source</a>',
+    linkLive: '<a href="https://short-courses-eight.vercel.app/" target="blank">See Live</a>',
+    linkSource: '<a href="https://github.com/Mylo16/short-courses" target="blank">See Source</a>',
   },
   {
     id: 'bg-pro4',
